@@ -19,7 +19,6 @@ class Skills extends Desenvolvedor {
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=miromachado&show_icons=true&title_color=1f883d&text_color=1f883d&icon_color=9400d3&bg_color=4ac26b66&cache_seconds=2300" alt="ilustração do status do github">
 
 ### 🚀 Minhas Skills
-<img align="right" height="180" src="https://ibb.co/HHSqQXx"  />
 
 ###
 
