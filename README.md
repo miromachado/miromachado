@@ -95,6 +95,8 @@ class Skills extends Desenvolvedor {
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=miromachado&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
+
+        ![Miro Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=miromachado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
       />
     </td>
     <td>
