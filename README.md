@@ -25,7 +25,7 @@ class Skills extends Desenvolvedor {
 
 <div align="left">
   <!-- Linguagens -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/OpenText_logo.svg/2560px-OpenText_logo.svg.png" height="30" alt="opentext logo" />
+  <img src="https://companieslogo.com/img/orig/OTEX-41cd4c50.png?t=1741951344" height="30" alt="opentext logo" />
 
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
